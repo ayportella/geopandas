@@ -1,1 +1,1 @@
-This is a repository related to geopandas library projects.
+This is a repository related to geopandas projects.
